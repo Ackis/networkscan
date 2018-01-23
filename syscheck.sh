@@ -34,7 +34,7 @@ DATE=$(date +%Y%m%d)
 
 
 # Port Scan Internal Network
-sudo nmap -v -iL hostnames -A -oG /opt/syscheck/nmapscan -oX /opt/syscheck/nmapscan.xml
+sudo nmap -v -iL iprange -A -oG /opt/syscheck/nmapscan -oX /opt/syscheck/nmapscan.xml
 
 # Update Nikto Library Definitions
 sudo perl /opt/nikto/nikto.pl -update
