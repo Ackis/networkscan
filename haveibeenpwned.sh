@@ -2,14 +2,14 @@
 #edited on 4/19/2018 9:02PM EST
 echo  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 echo  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-echo  %%%   RESPONSE CODES:                         
-echo  %%% 200- Email was apart of a compromise. 
-echo  %%% 400- Bad request                      
-echo  %%% 403- Forbidden                        
-echo  %%% 404- No account, no compromise ":)"    
-echo  %%% 429- Too many request. Slow it down    
-echo  %%%                                       
-echo  %%%  WILL START IN 5 SECONDS               
+echo  %%%   RESPONSE CODES:
+echo  %%% 200- Email was apart of a compromise.
+echo  %%% 400- Bad request
+echo  %%% 403- Forbidden
+echo  %%% 404- No account, no compromise ":)"
+echo  %%% 429- Too many request. Slow it down
+echo  %%%
+echo  %%%  WILL START IN 5 SECONDS
 
 #sleep 5
 
